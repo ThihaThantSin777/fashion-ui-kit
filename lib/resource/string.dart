@@ -1,0 +1,9 @@
+const kHowdyText='Howdy,';
+const kCristianYotaText='Cristian Yota';
+const kTrendingForYouText='Trending for you';
+const kNew2020Text='New 2020';
+const kModernOutFitFashionText='Modern Outfit Collection';
+const kNameText='Firna Surapt';
+const kRecommended='Recommended';
+const kOutFitIdeaText='OUTFIT IDEAS';
+const kModernBlueJacketText='Modern Blue Jacket';
